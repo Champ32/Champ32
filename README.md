@@ -19,8 +19,10 @@ Beyond development, I have led technical training initiatives, developing instru
 
 Driven by innovation, problem-solving, and continuous learning, I am always eager to tackle new challenges and contribute to impactful projects.
 
-📩 Let’s Connect: robertchampion321@gmail.com | LinkedIn
-
+📩 Let’s Connect
+  -📄 Download My Resume
+  -📧 Email Me
+  -🔗 LinkedIn
 
 
 ### 🧰 Languages and Tools
