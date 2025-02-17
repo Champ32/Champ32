@@ -1,6 +1,6 @@
 # 🏄‍♂️ Forrest Knight
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Software Developer (Developer/Venturer/)`**
 
 I'm Robert, a Software Developer & UI/UX Specialist based in Cincinnati. I have a strong background in web and mobile development, specializing in building scalable and user-friendly applications. My expertise includes .NET, Flutter, JavaScript, and C#, with a focus on secure user interactions and real-time data synchronization.
 
