@@ -17,9 +17,13 @@ Beyond development, I have led technical training initiatives, developing instru
 Driven by innovation, problem-solving, and continuous learning, I am always eager to tackle new challenges and contribute to impactful projects.
 
 📩 Let’s Connect
-  -📄 Download My Resume
-  -📧 Email Me
-  -🔗 LinkedIn
+  -📄 <a href="your-resume-link.pdf" download>Download My Resume</a> 
+  -📧 <a href="mailto:robertchampion321@gmail.com">Email Me</a>
+  -🔗 <a href="https://www.linkedin.com/in/robert-champion-bearcat/" target="_blank">LinkedIn</a>
+<!-- Font Awesome Link (Include this in your <head> if not already added) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+
 
 
 ### 🧰 Languages and Tools
