@@ -1,9 +1,6 @@
 # 🏄‍♂️ Robert Champion
-
-**`Software Developer (Developer/Venturer/)`**
-
 📌
-Robert Champion – Software Developer | UI/UX Specialist | Data Analyst
+ Software Developer | UI/UX Specialist | Data Analyst
 
 I’m Robert Champion, a Software Developer and UI/UX Specialist with a Bachelor of Science in Information Technology from the University of Cincinnati. With a strong foundation in web and mobile application development, data visualization, and technical training, I am passionate about creating scalable, user-friendly digital solutions that drive efficiency and engagement.
 
